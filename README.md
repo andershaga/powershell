@@ -2,7 +2,7 @@
 > Collection of functions written for different purposes
 
 ##### New-AppvClientConnectionGroup
-_App-V 5 - Create App-V applications groups with this function_
+_App-V 5 - Create App-V application groups with this function_
 
 ##### Reset-Appv
 _App-V 5 - Reset App-V on workstation back to a clean state_
