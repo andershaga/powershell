@@ -1,5 +1,5 @@
 # Powershell
-> Collection of functions written for different purposes
+Collection of functions written for different purposes
 
 ##### New-AppvClientConnectionGroup
 _App-V 5 - Create App-V application groups with this function_
